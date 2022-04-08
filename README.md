@@ -1,8 +1,3 @@
-# JavaRestApiExample
-Java Rest API Projet With MongoDB Repo.
-
-@affanbinhasan 
-   
 <div id="top"></div>
 
 <!-- PROJECT LOGO -->
