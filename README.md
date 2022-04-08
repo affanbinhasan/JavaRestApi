@@ -79,7 +79,11 @@ Rest API with endpoints for searching, creating and deleting “server” object
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To use this Application Download it as a zip file. Unzip it in your PC and Open it with Visual Studio Code or any IDE of your choice. If you want to run it with your CLI refer this url : https://stackoverflow.com/questions/47835901/how-to-start-up-spring-boot-application-via-command-line.
+To use this Application:
+* Clone my github Repository using this url : https://github.com/affanbinhasan/JavaRestApiExample.git .
+* Download it as a zip file. Unzip it in your PC and Open it with Visual Studio Code or any IDE of your choice. 
+* If you want to run it with your CLI refer this url : https://stackoverflow.com/questions/47835901/how-to-start-up-spring-boot-application-via-command-line .
+
 
 ### Prerequisites
 
