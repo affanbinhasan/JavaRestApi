@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/affanbinhasan/JavaRestApiExample">
+  <a href="https://github.com/affanbinhasan/JavaRestApi">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl0H0xUMLRMHjhe5MRzGGbMLYLrGOsePKdzA&usqp=CAU" alt="Logo" width="80" height="80">
   </a>
 
@@ -12,14 +12,14 @@
   <p align="center">
     A REST API with endpoints for searching, creating and deleting “server” objects
     <br />
-    <a href="https://github.com/affanbinhasan/JavaRestApiExample"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/affanbinhasan/JavaRestApi"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/affanbinhasan/JavaRestApiExample">View Demo</a>
+    <a href="https://github.com/affanbinhasan/JavaRestApi">View Demo</a>
     ·
-    <a href="https://github.com/affanbinhasan/JavaRestApiExample/issues">Report Bug</a>
+    <a href="https://github.com/affanbinhasan/JavaRestApi/issues">Report Bug</a>
     ·
-    <a href="https://github.com/affanbinhasan/JavaRestApiExample/issues">Request Feature</a>
+    <a href="https://github.com/affanbinhasan/JavaRestApi/issues">Request Feature</a>
   </p>
 </div>
 
@@ -75,7 +75,7 @@ Rest API with endpoints for searching, creating and deleting “server” object
 ## Getting Started
 
 To use this Application:
-* Clone my github Repository using this url : https://github.com/affanbinhasan/JavaRestApiExample.git .
+* Clone my github Repository using this url : https://github.com/affanbinhasan/JavaRestApi.git .
 * Download it as a zip file. Unzip it in your PC and Open it with Visual Studio Code or any IDE of your choice. 
 * If you want to run it with your CLI refer this url : https://stackoverflow.com/questions/47835901/how-to-start-up-spring-boot-application-via-command-line .
 
@@ -107,7 +107,7 @@ To use this Application:
 
 Affan Bin Hasan - affan.alpha7@gmail.com
 
-Project Link: [https://github.com/affanbinhasan/JavaRestApiExample](https://github.com/affanbinhasan/JavaRestApiExample)
+Project Link: [https://github.com/affanbinhasan/JavaRestApi](https://github.com/affanbinhasan/JavaRestApi)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
