@@ -91,11 +91,11 @@ To use this Application:
 * Use your HTTP client to see how my Application Responds to it . below are the provided navigations.
 
 * Navigations provided (Runs On Default Port 8080):
-	- HTTP GET - localhost8080/getservers : Return all the servers present in Mongo Repository
-	- HTTP GET - localhost8080/getserverbyid/{id} : Provide id you want to look up for in the Url
-	- HTTP GET - localhost8080/getserverbyname/{name} : Provide name you want to look up for in the Url
-	- HTTP PUT - localhost8080/addserver : Provide a Request Body In Raw Json Format
-	- HTTP DELETE - localhost8080/deleteserver/{id} : Provide the id you want to delete an entity of.
+	- HTTP GET - localhost:8080/getservers : Return all the servers present in Mongo Repository
+	- HTTP GET - localhost:8080/getserverbyid/{id} : Provide id you want to look up for in the Url
+	- HTTP GET - localhost:8080/getserverbyname/{name} : Provide name you want to look up for in the Url
+	- HTTP PUT - localhost:8080/addserver : Provide a Request Body In Raw Json Format
+	- HTTP DELETE - localhost:8080/deleteserver/{id} : Provide the id you want to delete an entity of.
 	- localhost8080/ : gives you all the URIs for navigation.
 
 
