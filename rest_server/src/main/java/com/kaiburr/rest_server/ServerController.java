@@ -29,7 +29,7 @@ public class ServerController {
     }
 
     @GetMapping("/getserverbyid/{id}")
-    public List<Server> findServerById(@PathVariable int id){
+    public List<Server> findServerById(@PathVariable String id){
         return ServerRepo.getServerById(id);
     }
 
